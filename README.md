@@ -48,7 +48,7 @@ These are the changes from the originally provided file
 
 ## License
 
-MIT License
+MIT License ![MIT](https://img.shields.io/apm/l/atomic-design-ui.svg?)
 
 Copyright (c) [year] [fullname]
 
