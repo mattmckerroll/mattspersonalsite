@@ -1,3 +1,4 @@
+/* CSS file */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* the following css styles the navbar and the header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,6 +43,8 @@ body {
     margin-left: 25px;
 }
 
+
+/* this styles the main text of the rest of the page */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -50,6 +54,7 @@ p {
     font-size: 16px;
 }
 
+/* background image is here */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +64,7 @@ p {
     background-position: center;
 }
 
+/* code for main content boxes position in relation to eachother */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,6 +75,7 @@ p {
     margin-left: 25px;
 }
 
+/*main content styling for the info inside the content boxes */
 .content {
     width: 75%;
     display: inline-block;
