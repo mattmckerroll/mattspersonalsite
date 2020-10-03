@@ -16,7 +16,7 @@ README
 This site is for Assignment 1 for the coding bootcamp, this is a Horiseon site which now has elements that are accessible, and working navbar links. For a description of the changes made to the original site, you can find them here: [Changes](#Changes). 
 
 ## Screenshot
-[Image of site](Screencap-of-website-matthewmckerroll.png)
+[Image of site](./assets/images/Screencap-of-website-matthewmckerroll.png)
 
 ## Installation
 
