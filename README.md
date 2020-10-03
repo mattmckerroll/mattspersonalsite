@@ -4,6 +4,7 @@ README
 ## Table of Contents
 
 * [Description](#Description)
+* [Screenshot](#Screenshot)
 * [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#credits)
@@ -12,7 +13,10 @@ README
 
 ## Description
 
-This site is for Assignment 1 for the coding bootcamp, this is a Horiseon site which now has elements that are accessible!
+This site is for Assignment 1 for the coding bootcamp, this is a Horiseon site which now has elements that are accessible, and working navbar links. For a description of the changes made to the original site, you can find them here: [Changes](#Changes). 
+
+## Screenshot
+[Image of site](Screencap-of-website-matthewmckerroll.png)
 
 ## Installation
 
@@ -26,8 +30,8 @@ Click links on the navbar to navigate the page, and read!
 
 ## Credits
 
-Matthew McKerroll
-W3 Schools is a big help [W3Schools Css](https://www.w3schools.com/css/) [W3Schools html](https://www.w3schools.com/html/)
+* Matthew McKerroll
+* W3 Schools are a big help: [W3Schools Css](https://www.w3schools.com/css/) and [W3Schools html](https://www.w3schools.com/html/) 
 
 ## Changes 
 
@@ -35,9 +39,9 @@ These are the changes from the originally provided file
 
 * added alt text to images both on side bar and main content
 * added semantic tags to the index.html file. 
-    -sidebar is now an aside
-    -main content has  been placed into sections.
-    -nav tag was added to denote the navbar
+    * sidebar is now an aside
+    * main content has  been placed into sections.
+    * nav tag was added to denote the navbar
 * edited the index.html file to have better indenting for easier reading.
 * proper title was added
 * footer tags were added to the footer.
@@ -48,9 +52,9 @@ These are the changes from the originally provided file
 
 ## License
 
-MIT License ![MIT](https://img.shields.io/apm/l/atomic-design-ui.svg?)
+![MIT](https://img.shields.io/apm/l/atomic-design-ui.svg?)
 
-Copyright (c) [year] [fullname]
+Copyright (c) 2020 Matthew Mckerroll
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

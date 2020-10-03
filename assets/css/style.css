@@ -1,10 +1,13 @@
 /* CSS file */
+
+/*styling for the entire page*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/*stlying the background colour*/
 body {
     background-color: #d9dcd6;
 }
@@ -44,7 +47,7 @@ body {
 }
 
 
-/* this styles the main text of the rest of the page */
+/* this styles the  text of the page */
 a {
     color: #ffffff;
     text-decoration: none;
